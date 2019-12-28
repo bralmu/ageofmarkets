@@ -2,7 +2,7 @@ import random
 import cell
 
 
-class World:
+class WorldMap:
 
     def __init__(self):
         self.cells = []
